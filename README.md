@@ -8,3 +8,4 @@ Each assignment is organized into separate folders with:
 
 ## Assignments
 - Assignment 1: Menu-Driven Calculator
+- Assignment 2: Vehicle-Management
