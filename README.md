@@ -10,3 +10,4 @@ Each assignment is organized into separate folders with:
 - Assignment 1: Menu-Driven Calculator
 - Assignment 2: Vehicle-Management
 - Assignment 3: Book-Management-System
+- Assignment 4: Vector-Operations-With-Exceptions
