@@ -12,3 +12,4 @@ Each assignment is organized into separate folders with:
 - Assignment 3: Book-Management-System
 - Assignment 4: Vector-Operations-With-Exceptions
 - Assignment 5: Banking-System
+- Assignment 6: Employee-Payroll-System
