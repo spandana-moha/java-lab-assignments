@@ -14,3 +14,4 @@ Each assignment is organized into separate folders with:
 - Assignment 5: Banking-System
 - Assignment 6: Employee-Payroll-System
 - Assignment 7: Student-File-CRUD-System
+- Assignment 8: Design-Patterns-Inventory-System
