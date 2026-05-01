@@ -14,3 +14,4 @@ CREATE TABLE MenuItem (
     ResId INT,
     FOREIGN KEY (ResId) REFERENCES Restaurant(Id)
 );
+
