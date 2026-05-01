@@ -64,10 +64,3 @@ javac *.java
 ```bash id="c7v9ms"
 java MainForProduct
 ```
-
-## Sample Output
----- Inventory Details ----
-New Product -> Name: Laptop
-New Product -> Name: Mobile
-Legacy Item -> ID: 101, Description: Old Keyboard
-Legacy Item -> ID: 102, Description: Old Monitor
